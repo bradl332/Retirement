@@ -1,5 +1,0 @@
-bumhole
-
-wanker
-
-print ('hello')
